@@ -16,3 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ![compra](https://github.com/DEVspolaor/listaDeCompras/assets/133894740/ea907232-130e-4a99-9a81-661e161da228)
+
+build\app\outputs\flutter-apk\app-release.apk
